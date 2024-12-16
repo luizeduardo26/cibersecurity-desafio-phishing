@@ -18,6 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
-
 ![VirtualBox_Kali - DIO _15_12_2024_20_49_03](https://github.com/user-attachments/assets/d15b2593-adc2-4880-a1a0-40393a13e5aa)
